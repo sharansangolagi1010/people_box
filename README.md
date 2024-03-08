@@ -1,1 +1,2 @@
 # people_box
+## For the assignment, I utilized My SQL Server for robust data management and Google Sheets for dynamic analysis and visualization. SQL queries were employed to extract and shape data from the SQL Server database, while Google Sheets facilitated collaborative data exploration, calculations, and the creation of impactful visualizations. This combined approach ensured efficient data handling and insightful presentation, contributing to a comprehensive and effective solution."
